@@ -39,3 +39,4 @@ In this project you'll choose an api to consume. You will build an application f
 - [x] Connect your fork to Codegrade using the "Connect Git" button.
 - [x] Find your newly created fork from the list and push your work to main.
 - [x] Check this video for details: www.youtube.com/watch?v=fC2BO7dI6IQ
+-pckge.json was wrong so i added a new one
